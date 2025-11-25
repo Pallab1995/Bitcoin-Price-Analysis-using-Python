@@ -99,8 +99,13 @@ jupyter notebook "Bitcoin Data Analysis_Pallab.ipynb"
 ---
 
 ## 👨‍💻 Author  
-**Pallab Sharma**  
-Data Analyst | Aspiring AI/ML Engineer  
+Pallab Sharma
+
+Data Analyst → AI/ML Practitioner
+
+🔗 GitHub Profile(https://github.com/Pallab1995)
+
+📧 Email: pallabsharma100@gmail.com  
 
 ---
 
